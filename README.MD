@@ -1,0 +1,1 @@
+The Sockets One. Rather, probably one of the sockets series. I'll be doing a lot of socket server code in coming months so probably will see more. I figured I should make sure I remember everything correctly so here we go. Based on https://www.youtube.com/watch?v=YwWfKitB8aA
